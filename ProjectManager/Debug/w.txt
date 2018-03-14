@@ -1,0 +1,71 @@
+10
+012395123
+John
+Snow
+1
+C Developer
+13521
+1
+075123421
+Bill
+Tasker
+3
+Producer
+10000
+2
+0689541233
+Will
+Smith
+5
+C# Developer
+10000
+-1
+05123412
+Christian
+Freeman
+4
+PHP Developer
+5000
+3
+0542311
+Morgan
+Stoleman
+6
+Web Designer
+4000
+3
+062453112
+Jacob
+Alderson
+7
+Python Developer
+10000
+3
+0513421
+Jordan
+Michaelson
+8
+PHP Designer
+10000
+3
+021341221
+Graham
+Freeman
+9
+Tester
+3000
+3
+05132412
+James
+Milner
+10
+Software Engineer
+15000
+3
+0753421221
+Bill
+McDonald
+11
+Graphic Designer
+7500
+3

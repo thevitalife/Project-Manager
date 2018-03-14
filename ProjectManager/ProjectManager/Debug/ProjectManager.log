@@ -1,0 +1,24 @@
+﻿  Form1.cpp
+Form1.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(121): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(132): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Form1.cpp(141): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Form1.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(178): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(187): warning C4018: <: несоответствие типов со знаком и без знака
+Form1.cpp(225): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Form1.cpp(234): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Project.h(182): warning C4018: <: несоответствие типов со знаком и без знака
+  e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Project.h(180): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Form1.h(1384): note: выполняется компиляция ссылки на экземпляр шаблон функции "PhoneBook<Customer>::PhoneBook(std::vector<Customer *,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=Customer *
+          ]
+  e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Form1.h(1384): note: выполняется компиляция ссылки на экземпляр шаблон класс "PhoneBook<Customer>"
+e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Project.h(174): warning C4018: <: несоответствие типов со знаком и без знака
+  e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Project.h(172): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  e:\університет\2 курс\ооп\курсова\projectmanager\projectmanager\Form1.h(1385): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::string PhoneBook<Customer>::GetListAsString(void)"
+  ProjectManager.vcxproj -> E:\Університет\2 курс\ООП\Курсова\ProjectManager\Debug\ProjectManager.exe
